@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f8ff;
-    color: #007eb1;
+    color: #333;
     margin: 0;
     padding: 20px;
 }
@@ -10,7 +10,7 @@ body {
 
 header {
     text-align: center;
-    background-color: #00abf0;
+    background-color: #333;
     color: #fff;
     padding: 15px 0;
     margin-bottom: 20px;
@@ -36,7 +36,7 @@ table {
 
 
 thead {
-    background-color: #00abf0;
+    background-color: #333;
     color: #fff;
 }
 
@@ -61,12 +61,12 @@ tr:hover {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #007eb1;
+    background-color: #333;
     color: #fff;
     margin-top: 20px;
 }
 nav {
-    background: #00b6ff;
+    background: #444;
     padding: 10px;
 }
 
